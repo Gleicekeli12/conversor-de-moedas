@@ -15,7 +15,7 @@ Projeto simples desenvolvido durante as aulas no <a href="https://rodolfomori.co
 Acesse o projeto no GitHub:  
 👉 [github.com/Gleicekeli12/conversor-de-moedas](https://github.com/Gleicekeli12/conversor-de-moedas.git)
 
-## Como executar localmente
+## ⚙️ Como executar localmente
 
 1. Clone o repositório:
     
