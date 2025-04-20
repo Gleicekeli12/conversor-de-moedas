@@ -1,6 +1,9 @@
-# 💰 Conversor de Moedas
+# 💲 Conversor de Moedas
 
 Projeto simples desenvolvido durante as aulas no <a href="https://rodolfomori.com.br/devclub">DevClub</a>, para converter valores de **Dólar (USD)** para **Reais (BRL)** de forma prática e rápida.
+
+## 🌐 Descrição
+Conversor simples que transforma valores de dólar para real. Desenvolvido para praticar manipulação de DOM e lógica com JavaScript.
 
 ## 🚀 Tecnologias Utilizadas
 
